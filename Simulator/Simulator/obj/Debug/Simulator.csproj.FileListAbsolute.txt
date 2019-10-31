@@ -1,0 +1,7 @@
+C:\Users\Luis_Dutra\source\repos\Simulator\Simulator\bin\Debug\Simulator.exe.config
+C:\Users\Luis_Dutra\source\repos\Simulator\Simulator\bin\Debug\Simulator.exe
+C:\Users\Luis_Dutra\source\repos\Simulator\Simulator\bin\Debug\Simulator.pdb
+C:\Users\Luis_Dutra\source\repos\Simulator\Simulator\obj\Debug\Simulator.csprojAssemblyReference.cache
+C:\Users\Luis_Dutra\source\repos\Simulator\Simulator\obj\Debug\Simulator.csproj.CoreCompileInputs.cache
+C:\Users\Luis_Dutra\source\repos\Simulator\Simulator\obj\Debug\Simulator.exe
+C:\Users\Luis_Dutra\source\repos\Simulator\Simulator\obj\Debug\Simulator.pdb
